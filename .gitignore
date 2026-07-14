@@ -1,0 +1,3 @@
+# Package payloads are hosted as GitHub Release assets, not Git blobs.
+/apt/pool/
+/rpm/beta/*/Packages/

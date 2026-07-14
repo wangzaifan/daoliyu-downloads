@@ -1,0 +1,7 @@
+[daoliyu-beta]
+name=Daoliyu Music Server Beta
+baseurl=https://repo.daoliyu.cn/rpm/beta/$basearch
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://repo.daoliyu.cn/keys/daoliyu-archive-keyring.asc
