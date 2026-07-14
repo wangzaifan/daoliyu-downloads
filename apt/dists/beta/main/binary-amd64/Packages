@@ -4,7 +4,7 @@ Architecture: amd64
 Maintainer: Daoliyu <support@daoliyu.cn>
 Installed-Size: 399972
 Depends: acl, ca-certificates, passwd, policykit-1, systemd
-Filename: pool/beta/daoliyu-music-server_0.3.4_amd64.deb
+Filename: pool/beta/v0.3.4-beta/daoliyu-music-server_0.3.4_amd64.deb
 Size: 144882992
 MD5sum: 257d0e5f5822f1d1f30ab404ae8c41cf
 SHA1: a5ad3198815a4f8599acc8b76bbd1f137046e0f2

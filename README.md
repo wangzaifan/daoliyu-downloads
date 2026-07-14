@@ -24,6 +24,14 @@ Primary key fingerprint:
 B218 D900 62A6 E2B4 1389 47B0 1494 FE30 ABD9 F22F
 ```
 
+Portable package manifests use a separate Ed25519 release key. Its public key
+is published in [`keys/daoliyu-release-ed25519.pub`](keys/daoliyu-release-ed25519.pub).
+The corresponding private keys and platform signing certificates are never
+stored in this repository or attached to a release.
+
+Release assets are immutable. A corrected build must use a new version instead
+of replacing files attached to an existing published tag.
+
 Official website: <https://daoliyu.cn>
 
 ## Security

@@ -1,3 +1,14 @@
-# Package payloads are hosted as GitHub Release assets, not Git blobs.
+# Package payloads are GitHub Release assets, never Git history.
 /apt/pool/
-/rpm/beta/*/Packages/
+/rpm/*/*/Packages/
+
+# Private signing and platform certificate material is forbidden here.
+*.key
+*.pem
+*.p12
+*.pfx
+*.mobileprovision
+
+# Local build output.
+.DS_Store
+dist/
