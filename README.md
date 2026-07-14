@@ -15,6 +15,15 @@ signatures.
 Always verify downloaded files against the published `SHA256SUMS` file before
 installation.
 
+Linux APT and RPM repository metadata is signed by the key published in
+[`keys/daoliyu-archive-keyring.asc`](keys/daoliyu-archive-keyring.asc).
+
+Primary key fingerprint:
+
+```text
+B218 D900 62A6 E2B4 1389 47B0 1494 FE30 ABD9 F22F
+```
+
 Official website: <https://daoliyu.cn>
 
 ## Security
