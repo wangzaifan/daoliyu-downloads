@@ -8,9 +8,29 @@ in a separate private repository.
 
 ## Downloads
 
-Use the files attached to a GitHub Release. Beta releases are for testing and
-may not yet carry production Windows Authenticode or Apple Developer ID
-signatures.
+The canonical public download host is `https://repo.daoliyu.cn`. It is an
+Alibaba Cloud ESA edge redirect and does not proxy package bodies through the
+Daoliyu authentication service or origin server.
+
+Release assets use this immutable URL format:
+
+```text
+https://repo.daoliyu.cn/releases/<tag>/<asset-name>
+```
+
+For example:
+
+```text
+https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server-0.3.4-beta-windows-amd64-setup.exe
+```
+
+The edge only redirects `/releases/` requests to the matching asset in this
+repository's GitHub Release. A missing asset remains a 404. Repository metadata
+under `/apt/`, `/rpm/`, and `/keys/` is redirected to this repository's public
+Git content. No private source repository token is needed by download clients.
+
+Beta releases are for testing and may not yet carry production Windows
+Authenticode or Apple Developer ID signatures.
 
 Always verify downloaded files against the published `SHA256SUMS` file before
 installation.
@@ -33,6 +53,8 @@ Release assets are immutable. A corrected build must use a new version instead
 of replacing files attached to an existing published tag.
 
 Official website: <https://daoliyu.cn>
+
+Canonical downloads and Linux repositories: <https://repo.daoliyu.cn>
 
 ## Security
 
