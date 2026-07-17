@@ -29,6 +29,15 @@ repository's GitHub Release. A missing asset remains a 404. Repository metadata
 under `/apt/`, `/rpm/`, and `/keys/` is redirected to this repository's public
 Git content. No private source repository token is needed by download clients.
 
+The official website reads the public package catalog from:
+
+```text
+https://repo.daoliyu.cn/catalog/releases.json
+```
+
+The catalog contains package metadata only and is maintained by the private
+release workflow.
+
 Beta releases are for testing and may not yet carry production Windows
 Authenticode or Apple Developer ID signatures.
 
