@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-14T20:46:28.000Z",
+  "updatedAt": "2026-07-17T23:24:56.000Z",
   "releases": [
     {
       "tag": "v0.3.4-beta",
@@ -9,11 +9,31 @@
       "channel": "beta",
       "buildNumber": 304,
       "prerelease": true,
-      "publishedAt": "2026-07-14T20:46:28.000Z",
+      "publishedAt": "2026-07-17T23:24:56.000Z",
       "assets": [
         {
+          "name": "daoliyu-music-0.3.4-0001-armv8.spk",
+          "size": 91110400,
+          "contentType": "application/octet-stream",
+          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-0.3.4-0001-armv8.spk",
+          "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-0.3.4-0001-armv8.spk",
+          "platforms": [
+            "synology"
+          ]
+        },
+        {
+          "name": "daoliyu-music-0.3.4-0001-x86_64.spk",
+          "size": 95988736,
+          "contentType": "application/octet-stream",
+          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-0.3.4-0001-x86_64.spk",
+          "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-0.3.4-0001-x86_64.spk",
+          "platforms": [
+            "synology"
+          ]
+        },
+        {
           "name": "daoliyu-music-0.3.4-fnos-cn-arm64.fpk",
-          "size": 87204132,
+          "size": 87854853,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-0.3.4-fnos-cn-arm64.fpk",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-0.3.4-fnos-cn-arm64.fpk",
@@ -23,7 +43,7 @@
         },
         {
           "name": "daoliyu-music-0.3.4-fnos-cn-x86_64.fpk",
-          "size": 94644583,
+          "size": 95327401,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-0.3.4-fnos-cn-x86_64.fpk",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-0.3.4-fnos-cn-x86_64.fpk",
@@ -33,7 +53,7 @@
         },
         {
           "name": "daoliyu-music-0.3.4-fygoos-global-arm64.fpk",
-          "size": 87205447,
+          "size": 87856057,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-0.3.4-fygoos-global-arm64.fpk",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-0.3.4-fygoos-global-arm64.fpk",
@@ -43,7 +63,7 @@
         },
         {
           "name": "daoliyu-music-0.3.4-fygoos-global-x86_64.fpk",
-          "size": 94645756,
+          "size": 95328799,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-0.3.4-fygoos-global-x86_64.fpk",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-0.3.4-fygoos-global-x86_64.fpk",
@@ -53,7 +73,7 @@
         },
         {
           "name": "daoliyu-music-server_0.3.4_amd64.deb",
-          "size": 144882992,
+          "size": 146406094,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server_0.3.4_amd64.deb",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server_0.3.4_amd64.deb",
@@ -63,7 +83,7 @@
         },
         {
           "name": "daoliyu-music-server_0.3.4_arm64.deb",
-          "size": 137202890,
+          "size": 138599598,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server_0.3.4_arm64.deb",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server_0.3.4_arm64.deb",
@@ -73,7 +93,7 @@
         },
         {
           "name": "daoliyu-music-server-0.3.4-0.beta.aarch64.rpm",
-          "size": 135694495,
+          "size": 137071442,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server-0.3.4-0.beta.aarch64.rpm",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server-0.3.4-0.beta.aarch64.rpm",
@@ -83,7 +103,7 @@
         },
         {
           "name": "daoliyu-music-server-0.3.4-0.beta.x86_64.rpm",
-          "size": 143595288,
+          "size": 145120746,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server-0.3.4-0.beta.x86_64.rpm",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server-0.3.4-0.beta.x86_64.rpm",
@@ -93,7 +113,7 @@
         },
         {
           "name": "daoliyu-music-server-0.3.4-beta-macos-universal.dmg",
-          "size": 180917487,
+          "size": 185918538,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server-0.3.4-beta-macos-universal.dmg",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server-0.3.4-beta-macos-universal.dmg",
@@ -103,7 +123,7 @@
         },
         {
           "name": "daoliyu-music-server-0.3.4-beta-macos-universal.pkg",
-          "size": 179330615,
+          "size": 184340564,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server-0.3.4-beta-macos-universal.pkg",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server-0.3.4-beta-macos-universal.pkg",
@@ -113,7 +133,7 @@
         },
         {
           "name": "daoliyu-music-server-0.3.4-beta-windows-amd64-setup.exe",
-          "size": 90326748,
+          "size": 91652595,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server-0.3.4-beta-windows-amd64-setup.exe",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server-0.3.4-beta-windows-amd64-setup.exe",
@@ -122,8 +142,38 @@
           ]
         },
         {
+          "name": "daoliyu-music-server-0.3.4-darwin-amd64.tar.gz",
+          "size": 117569753,
+          "contentType": "application/gzip",
+          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server-0.3.4-darwin-amd64.tar.gz",
+          "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server-0.3.4-darwin-amd64.tar.gz",
+          "platforms": [
+            "macos"
+          ]
+        },
+        {
+          "name": "daoliyu-music-server-0.3.4-darwin-arm64.tar.gz",
+          "size": 110727428,
+          "contentType": "application/gzip",
+          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server-0.3.4-darwin-arm64.tar.gz",
+          "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server-0.3.4-darwin-arm64.tar.gz",
+          "platforms": [
+            "macos"
+          ]
+        },
+        {
+          "name": "daoliyu-music-server-0.3.4-darwin-universal.tar.gz",
+          "size": 182747632,
+          "contentType": "application/gzip",
+          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server-0.3.4-darwin-universal.tar.gz",
+          "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server-0.3.4-darwin-universal.tar.gz",
+          "platforms": [
+            "macos"
+          ]
+        },
+        {
           "name": "daoliyu-music-server-0.3.4-linux-amd64.tar.gz",
-          "size": 144772493,
+          "size": 146295265,
           "contentType": "application/gzip",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server-0.3.4-linux-amd64.tar.gz",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server-0.3.4-linux-amd64.tar.gz",
@@ -133,7 +183,7 @@
         },
         {
           "name": "daoliyu-music-server-0.3.4-linux-arm64.tar.gz",
-          "size": 137093728,
+          "size": 138488991,
           "contentType": "application/gzip",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server-0.3.4-linux-arm64.tar.gz",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server-0.3.4-linux-arm64.tar.gz",
@@ -143,7 +193,7 @@
         },
         {
           "name": "daoliyu-music-server-0.3.4-windows-amd64.zip",
-          "size": 132123895,
+          "size": 133717093,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/daoliyu-music-server-0.3.4-windows-amd64.zip",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/daoliyu-music-server-0.3.4-windows-amd64.zip",
@@ -152,8 +202,16 @@
           ]
         },
         {
+          "name": "install-daoliyu-music.sh",
+          "size": 6324,
+          "contentType": "application/octet-stream",
+          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/install-daoliyu-music.sh",
+          "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/install-daoliyu-music.sh",
+          "platforms": []
+        },
+        {
           "name": "SHA256SUMS-0.3.4-beta.txt",
-          "size": 1552,
+          "size": 2189,
           "contentType": "text/plain",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v0.3.4-beta/SHA256SUMS-0.3.4-beta.txt",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v0.3.4-beta/SHA256SUMS-0.3.4-beta.txt",

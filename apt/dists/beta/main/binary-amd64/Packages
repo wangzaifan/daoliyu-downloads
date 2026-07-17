@@ -2,13 +2,14 @@ Package: daoliyu-music-server
 Version: 0.3.4-0.beta
 Architecture: amd64
 Maintainer: Daoliyu <support@daoliyu.cn>
-Installed-Size: 399972
+Installed-Size: 403112
 Depends: acl, ca-certificates, passwd, policykit-1, systemd
+Suggests: zenity
 Filename: pool/beta/v0.3.4-beta/daoliyu-music-server_0.3.4_amd64.deb
-Size: 144882992
-MD5sum: 257d0e5f5822f1d1f30ab404ae8c41cf
-SHA1: a5ad3198815a4f8599acc8b76bbd1f137046e0f2
-SHA256: 2e1c42e07a66444a35a1fa74c8efb239dc06478d8e0c6603d7ba049c30298bfe
+Size: 146406094
+MD5sum: 809fa727279c07386d79e1d8305eebc4
+SHA1: a4b9976e42b1891702b91113564db4d82a66ac63
+SHA256: fa25c7d4c2f43b3a8ead9e91735d00ad369a0c173680a9dfc5b55a2551e3875b
 Section: sound
 Priority: optional
 Homepage: https://daoliyu.cn
