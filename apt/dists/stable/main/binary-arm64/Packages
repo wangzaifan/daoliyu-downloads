@@ -1,0 +1,17 @@
+Package: daoliyu-music-server
+Version: 0.3.4-1
+Architecture: arm64
+Maintainer: Daoliyu <support@daoliyu.cn>
+Installed-Size: 352604
+Depends: acl, ca-certificates, passwd, policykit-1, systemd
+Suggests: zenity
+Filename: pool/stable/v0.3.4/daoliyu-music-server_0.3.4_arm64.deb
+Size: 145556152
+MD5sum: 19cf8b10662fb5d243cf3a25d5ba98f8
+SHA1: 33e0c70dcc4942efa43155ba5d9a9cee43d10167
+SHA256: b0e9c77a8670dc2f515c109e642f177322f189567e9079df3fefdf57503645ba
+Section: sound
+Priority: optional
+Homepage: https://daoliyu.cn
+Description: Daoliyu Music media server, command-line manager and optional desktop tray (stable channel)
+
