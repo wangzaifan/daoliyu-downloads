@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-04T08:45:59.000Z",
+  "updatedAt": "2026-08-04T10:08:50.000Z",
   "releases": [
     {
       "tag": "v1.0.0",
@@ -23,7 +23,7 @@
         },
         {
           "name": "daoliyu-music-1.0.0-0008-fnos-cn-arm64.fpk",
-          "size": 102476356,
+          "size": 102415542,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.0/daoliyu-music-1.0.0-0008-fnos-cn-arm64.fpk",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.0/daoliyu-music-1.0.0-0008-fnos-cn-arm64.fpk",
@@ -33,7 +33,7 @@
         },
         {
           "name": "daoliyu-music-1.0.0-0008-fnos-cn-x86_64.fpk",
-          "size": 108797547,
+          "size": 108828294,
           "contentType": "application/octet-stream",
           "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.0/daoliyu-music-1.0.0-0008-fnos-cn-x86_64.fpk",
           "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.0/daoliyu-music-1.0.0-0008-fnos-cn-x86_64.fpk",
