@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-04T12:40:41.000Z",
+  "updatedAt": "2026-08-04T18:13:13.000Z",
   "releases": [
     {
       "tag": "v1.0.0",
@@ -12,11 +12,11 @@
       "publishedAt": "2026-08-03T22:43:46.000Z",
       "assets": [
         {
-          "name": "daoliyu-music-1.0.0-0006-armv8.spk",
-          "size": 104153088,
+          "name": "daoliyu-music-1.0.0-0007-armv8.spk",
+          "size": 104152576,
           "contentType": "application/octet-stream",
-          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.0/daoliyu-music-1.0.0-0006-armv8.spk",
-          "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.0/daoliyu-music-1.0.0-0006-armv8.spk",
+          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.0/daoliyu-music-1.0.0-0007-armv8.spk",
+          "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.0/daoliyu-music-1.0.0-0007-armv8.spk",
           "platforms": [
             "synology"
           ]
@@ -62,11 +62,11 @@
           ]
         },
         {
-          "name": "daoliyu-music-1.0.0-0006-x86_64.spk",
+          "name": "daoliyu-music-1.0.0-0007-x86_64.spk",
           "size": 109609984,
           "contentType": "application/octet-stream",
-          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.0/daoliyu-music-1.0.0-0006-x86_64.spk",
-          "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.0/daoliyu-music-1.0.0-0006-x86_64.spk",
+          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.0/daoliyu-music-1.0.0-0007-x86_64.spk",
+          "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.0/daoliyu-music-1.0.0-0007-x86_64.spk",
           "platforms": [
             "synology"
           ]
