@@ -22,21 +22,21 @@
           ]
         },
         {
-      "name": "daoliyu-music-1.0.0-0007-fnos-cn-arm64.fpk",
-      "size": 102475602,
+          "name": "daoliyu-music-1.0.0-0007-fnos-cn-arm64.fpk",
+          "size": 102475602,
           "contentType": "application/octet-stream",
-      "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.0/daoliyu-music-1.0.0-0007-fnos-cn-arm64.fpk",
-      "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.0/daoliyu-music-1.0.0-0007-fnos-cn-arm64.fpk",
+          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.0/daoliyu-music-1.0.0-0007-fnos-cn-arm64.fpk",
+          "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.0/daoliyu-music-1.0.0-0007-fnos-cn-arm64.fpk",
           "platforms": [
             "fnos-cn"
           ]
         },
         {
-      "name": "daoliyu-music-1.0.0-0007-fnos-cn-x86_64.fpk",
-      "size": 108796651,
+          "name": "daoliyu-music-1.0.0-0007-fnos-cn-x86_64.fpk",
+          "size": 108796651,
           "contentType": "application/octet-stream",
-      "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.0/daoliyu-music-1.0.0-0007-fnos-cn-x86_64.fpk",
-      "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.0/daoliyu-music-1.0.0-0007-fnos-cn-x86_64.fpk",
+          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.0/daoliyu-music-1.0.0-0007-fnos-cn-x86_64.fpk",
+          "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.0/daoliyu-music-1.0.0-0007-fnos-cn-x86_64.fpk",
           "platforms": [
             "fnos-cn"
           ]
