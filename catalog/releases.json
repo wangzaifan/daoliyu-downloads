@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T08:30:00.000Z",
+  "updatedAt": "2026-09-30T15:00:32.000Z",
   "releases": [
     {
       "tag": "v1.0.4",
@@ -192,21 +192,21 @@
           ]
         },
         {
-          "name": "daoliyu-music-server-1.0.4-0001-stable-windows-amd64-setup.exe",
-          "size": 122787781,
+          "name": "daoliyu-music-server-1.0.4-0003-stable-windows-amd64-setup.exe",
+          "size": 122641545,
           "contentType": "application/octet-stream",
-          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.4/daoliyu-music-server-1.0.4-0001-stable-windows-amd64-setup.exe",
-          "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.4/daoliyu-music-server-1.0.4-0001-stable-windows-amd64-setup.exe",
+          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.4/daoliyu-music-server-1.0.4-0003-stable-windows-amd64-setup.exe",
+          "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.4/daoliyu-music-server-1.0.4-0003-stable-windows-amd64-setup.exe",
           "platforms": [
             "windows"
           ]
         },
         {
-          "name": "daoliyu-music-server-1.0.4-0001-windows-amd64.zip",
-          "size": 177382396,
+          "name": "daoliyu-music-server-1.0.4-0003-windows-amd64.zip",
+          "size": 177182180,
           "contentType": "application/octet-stream",
-          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.4/daoliyu-music-server-1.0.4-0001-windows-amd64.zip",
-          "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.4/daoliyu-music-server-1.0.4-0001-windows-amd64.zip",
+          "downloadUrl": "https://github.com/wangzaifan/daoliyu-downloads/releases/download/v1.0.4/daoliyu-music-server-1.0.4-0003-windows-amd64.zip",
+          "canonicalUrl": "https://repo.daoliyu.cn/releases/v1.0.4/daoliyu-music-server-1.0.4-0003-windows-amd64.zip",
           "platforms": [
             "windows"
           ]
